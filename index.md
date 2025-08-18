@@ -4,7 +4,7 @@ layout: default
 
 
 [//]: <> (Text can be **bold**, _italic_, or ~~strikethrough~~.)
-
+# About
 Hello, my name is Domingo.
 Welcome to my website.
 I'm interested in programming languages such as Python, Java, Javascript, C.
