@@ -3,6 +3,11 @@ layout: default
 ---
 
 Text can be **bold**, _italic_, or ~~strikethrough~~.
+Hello, my name is Domingo.
+Welcome to my website.
+I'm interested in programming languages such as Python, Java, Javascript, C.
+However, my favourite programming language is Python.
+I've used languages such as SQL, Html, Css, Php, Ruby, Perl.
 
 [Link to another page](./another-page.html).
 
