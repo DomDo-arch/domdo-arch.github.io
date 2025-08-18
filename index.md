@@ -2,22 +2,26 @@
 layout: default
 ---
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
+
+[//]: <> (Text can be **bold**, _italic_, or ~~strikethrough~~.)
+
 Hello, my name is Domingo.
 Welcome to my website.
 I'm interested in programming languages such as Python, Java, Javascript, C.
 However, my favourite programming language is Python.
 I've used languages such as SQL, Html, Css, Php, Ruby, Perl.
+I've an experience of more then two years in Python.
 
 [Link to another page](./another-page.html).
 
-There should be whitespace between paragraphs.
 
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
+# Certifications
 
-# Header 1
+I've gained this year these two certifications
 
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
+
+* Data Analysis with Python
+* Introduction to Programming with Python
 
 ## Header 2
 
