@@ -71,6 +71,7 @@ end
 | SQL          | 1
 | Perl         | 1 
 | Php          | 1
+| LaTex        | 1
 
 ### There's a horizontal rule below this.
 
