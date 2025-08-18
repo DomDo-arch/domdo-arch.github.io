@@ -60,12 +60,17 @@ end
 
 ###### Header 6
 
-| head1        | head two          | three |
-|:-------------|:------------------|:------|
-| ok           | good swedish fish | nice  |
-| out of stock | good and plenty   | nice  |
-| ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
+| head1        | Projects |
+|:-------------|:------   |
+| Python       | 239+     |
+| C            | 30+     |
+| Java         | 10       |
+| Javascript   | 6        |
+| Html         | 10  
+| Ruby         | 1
+| SQL          | 1
+| Perl         | 1 
+| Php          | 1
 
 ### There's a horizontal rule below this.
 
