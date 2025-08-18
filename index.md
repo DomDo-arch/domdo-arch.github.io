@@ -23,12 +23,12 @@ I've gained this year these two certifications
 * Data Analysis with Python
 * Introduction to Programming with Python
 
-## Languages
+# Languages
 
-| head1        | Projects |
+| Language     | Projects |
 |:-------------|:------   |
 | Python       | 239+     |
-| C            | 30+     |
+| C            | 30+      |
 | Java         | 10       |
 | Javascript   | 6        |
 | Html         | 10  
