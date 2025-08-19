@@ -2,8 +2,17 @@
 layout: default
 ---
 
-## Welcome to another page
+## Python syntax
 
-_yay_
+- List
+- Tuple
+- For
+- While
+- Function
+- Variable
+- String
+- Int
+- Class
+- Dunders
 
 [back](./)
