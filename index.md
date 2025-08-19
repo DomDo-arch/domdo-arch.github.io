@@ -12,9 +12,6 @@ However, my favourite programming language is Python.
 I've used languages such as SQL, Html, Css, Php, Ruby, Perl.
 I've an experience of more then two years in Python.
 
-[Link to another page](./another-page.html).
-
-
 # Certifications
 
 I've gained this year these two certifications
@@ -37,3 +34,6 @@ I've gained this year these two certifications
 | Perl         | 1 
 | Php          | 1
 | LaTex        | 1
+
+
+[Python syntax](./another-page.html)
