@@ -36,4 +36,4 @@ I've gained this year these two certifications
 | LaTex        | 1
 
 
-[Python syntax](./another-page.html)
+[Python syntax](./writings/another-page.html)
