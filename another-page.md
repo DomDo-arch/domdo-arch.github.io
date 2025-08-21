@@ -31,8 +31,8 @@ counter = 0
 while counter < 10:
   print(counter)
   counter += 1
-
 ```
+
 - Function
 ```python
 def sum(number1, number2):
